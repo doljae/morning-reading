@@ -2,7 +2,7 @@
 
 <img src="./images/02.jpeg" width="200px" title="Github_Logo"/> <br/>
 실용주의 프로그래머(20주년 기념판) <br/>
-`Program Programming Programmer` <br/>
+`The Pragmatic Programmer` <br/>
 데이비드 토머스 , 앤드류 헌트 지음
 
 ---
